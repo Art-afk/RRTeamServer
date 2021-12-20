@@ -1,0 +1,8 @@
+C:\visual studio 2015\Projects\RRTeamServer\RRTeamServer\bin\Debug\RRTeamServer.exe.config
+C:\visual studio 2015\Projects\RRTeamServer\RRTeamServer\bin\Debug\RRTeamServer.exe
+C:\visual studio 2015\Projects\RRTeamServer\RRTeamServer\bin\Debug\RRTeamServer.pdb
+C:\visual studio 2015\Projects\RRTeamServer\RRTeamServer\bin\Debug\Newtonsoft.Json.dll
+C:\visual studio 2015\Projects\RRTeamServer\RRTeamServer\bin\Debug\Newtonsoft.Json.xml
+C:\visual studio 2015\Projects\RRTeamServer\RRTeamServer\obj\Debug\RRTeamServer.csprojResolveAssemblyReference.cache
+C:\visual studio 2015\Projects\RRTeamServer\RRTeamServer\obj\Debug\RRTeamServer.exe
+C:\visual studio 2015\Projects\RRTeamServer\RRTeamServer\obj\Debug\RRTeamServer.pdb
